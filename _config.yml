@@ -27,7 +27,7 @@ projects:
     projects:
     # - repo-name
 
-  social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -40,10 +40,6 @@ projects:
   # stackoverflow: your_user_id
   # telegram: your_username
   twitter: borrislearns
-  # unsplash: your_username
-  # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
 
 topics:
   - name: Go
