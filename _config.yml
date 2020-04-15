@@ -52,7 +52,8 @@ topics:
 
   - name: Flutter
     web_url: https://github.com/flutter/flutter#
+    image_url: https://raw.githubusercontent.com/dart-lang/site-shared/master/src/_assets/image/flutter/icon/64.png
 
   - name: Dart Lang
     web_url: https://github.com/dart-lang
-    image_url: https://imgur.com/SgVdwVF
+    image_url: https://raw.githubusercontent.com/dart-lang/site-shared/master/src/_assets/image/dart/logo/1080.png
